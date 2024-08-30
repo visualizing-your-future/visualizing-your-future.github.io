@@ -26,7 +26,7 @@ A tour through our current mock-up of our Visualizing Your Future web applicatio
 - Third, cd into the app/ directory of your local copy of the **Visualizing Your Future** app project, and install third party libraries via cmd or PowerShell:
 
 ```
-$ meteor npm install
+$ npm install -g meteor
 ```
 - Fourth, once the libraries are installed, you can run the application by invoking the following:
 
