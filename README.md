@@ -1,3 +1,5 @@
-[![ci-meteor-application-template-production](https://github.com/ics-software-engineering/meteor-application-template-production/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/meteor-application-template-production/actions/workflows/ci.yml)
+# visualizing-your-future.github.io
 
-For details, please see http://ics-software-engineering.github.io/meteor-application-template-production/
+Home page repository for the Visualizing Your Future team's software engineering project for Fall 2024, ICS 414, University of Hawai'i at Manoa.
+
+* [Visualizing Your Future Home Page](https://visualizing-your-future.github.io/)
