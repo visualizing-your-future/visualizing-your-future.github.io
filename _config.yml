@@ -1,8 +1,11 @@
-title: meteor-application-template-react
-description: A template for quickly starting Meteor application development
+title: Visualizing Your Future
+description: ICS 414 Project Team No. 1
 google_analytics:
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+  - jekyll-remote-theme
 
 gems:
   - jekyll-mentions
