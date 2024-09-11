@@ -19,7 +19,7 @@ title: Visualizing Your Future
 A tour through our current mock-up of our Visualizing Your Future web application for Spire Hawaii LLP.
 
 ### Landing Page
-![](images/landing-page)
+![](images/landing-page.png)
 ![](images/footer)
 
 ### Sign In Page
