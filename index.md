@@ -18,7 +18,35 @@ title: Visualizing Your Future
 ## User Guide
 A tour through our current mock-up of our Visualizing Your Future web application for Spire Hawaii LLP.
 
-[SCREENSHOTS COMING SOON]
+### Landing Page
+![](images/landing-page)
+![](images/footer)
+
+### Sign In Page
+![](images/signin-page)
+
+### Futures Page
+![](images/futures-page)
+
+### Data Input Page
+![](images/data-input-page)
+
+### Client Page
+![](images/client-page)
+
+### Visualization Page
+![](images/visualization-page)
+
+### Admin Landing Page
+![](images/admin-landing-page)
+
+### All Profiles Page
+![](images/profile-page)
+
+### Account Settings Page
+![](images/account-settings-page)
+
+[UPDATED SCREENSHOTS COMING SOON]
 
 ## Developer Guide
 - First, [install Meteor](https://www.meteor.com/install), and [GitHub Desktop](https://desktop.github.com/).
