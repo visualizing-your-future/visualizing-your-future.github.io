@@ -16,7 +16,7 @@ title: Visualizing Your Future
 **Visualizing Your Future** aims to provide a robust web application for *Spire Hawaii LLP*'s financial tools and databases, with the goal of enhancing their ability to satisfy clients' accounting needs with impactful and easy-to-read visualizations of the clients' financial projections.
 
 ## User Guide
-A tour through our current mock-up of our Visualizing Your Future web application for Spire Hawaii LLP.
+A tour through our current mock-up of our Visualizing Your Future web application for *Spire Hawaii LLP*.
 
 [SCREENSHOTS COMING SOON]
 
@@ -41,8 +41,10 @@ $ meteor npm run start
 - Created a GitHub organization and home page (8/28)
   - [Visualizing Your Future Github Organization](https://github.com/visualizing-your-future)
   - [Visualizing Your Future Home Page](https://visualizing-your-future.github.io/)
-- Began Issue Driven Project Management with Milestone 1 (8/29)
-  - [M1 Project Board](https://github.com/orgs/visualizing-your-future/projects/1)
+- Began Issue Driven Project Management with Milestone 1 (8/29-9-11)
+  - [M1 Project Board](https://github.com/orgs/visualizing-your-future/projects/3/views/1)
+- Entered Milestone 2 phase (9/12)
+  - [M2 Project Board](https://github.com/orgs/visualizing-your-future/projects/5/views/1)
 
 ## The Visualizing Your Future Team
 
@@ -82,4 +84,5 @@ $ meteor npm run start
 * [Team Contract (via Google Docs)](https://docs.google.com/document/d/1doBCHLmaNrq029uUPOsjgCroXzaHk2N4mB1xNZ2wVPc/edit?pli=1)
 * [Visualizing Your Future Github Organization](https://github.com/visualizing-your-future)
 * [Visualizing Your Future Home Page](https://visualizing-your-future.github.io/)
-* [M1 Project Board](https://github.com/orgs/visualizing-your-future/projects/1)
+* [M1 Project Board](https://github.com/orgs/visualizing-your-future/projects/3/views/1)
+* [M2 Project Board](https://github.com/orgs/visualizing-your-future/projects/5/views/1)
