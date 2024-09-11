@@ -26,6 +26,9 @@ A tour through our current mock-up of our Visualizing Your Future web applicatio
 ### Sign In Page
 ![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/signin-page.png)
 
+### Register Page
+![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/register_page.png)
+
 ### Futures Page
 ![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/futures-page.png)
 
