@@ -21,30 +21,31 @@ A tour through our current mock-up of our Visualizing Your Future web applicatio
 ### Landing Page
 ![](images/landing-page.png)
 ![](images/footer)
+![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/landing-page.png) 
 
 ### Sign In Page
-![](images/signin-page)
+![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/signin-page.png)
 
 ### Futures Page
-![](images/futures-page)
+![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/futures-page.png)
 
 ### Data Input Page
-![](images/data-input-page)
+![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/data-input-page.png)
 
 ### Client Page
-![](images/client-page)
+![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/client-page.png)
 
 ### Visualization Page
-![](images/visualization-page)
+![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/visualization-page.png)
 
 ### Admin Landing Page
-![](images/admin-landing-page)
+![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/admin-landing-page.png)
 
 ### All Profiles Page
-![](images/profile-page)
+![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/profile-page.png)
 
 ### Account Settings Page
-![](images/account-settings-page)
+![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/account-settings-page.png)
 
 [UPDATED SCREENSHOTS COMING SOON]
 
