@@ -21,6 +21,8 @@ A tour through our current mock-up of our Visualizing Your Future web applicatio
 ### Landing Page
 ![](images/landing-page.png)
 ![](images/footer)
+<img src="app/public/images/landing-page.png">
+
 ![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/landing-page.png) 
 
 ### Sign In Page
