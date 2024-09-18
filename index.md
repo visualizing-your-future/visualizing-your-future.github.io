@@ -23,34 +23,33 @@ A tour through our current mock-up of our Visualizing Your Future web applicatio
 ![](images/footer)
 <img src="app/public/images/landing-page.png">
 
-![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/landing-page.png) 
 
 ### Sign In Page
-![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/signin-page.png)
+<img src="app/public/images/landing-page.png">
 
 ### Register Page
-![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/register_page.png)
+<img src="app/public/images/register_page.png">
 
 ### Futures Page
-![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/futures-page.png)
+<img src="app/public/images/futures-page.png">
 
 ### Data Input Page
-![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/data-input-page.png)
+<img src="app/public/images/data-input-page.png">
 
 ### Client Page
-![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/client-page.png)
+<img src="app/public/images/client-page.png">
 
 ### Visualization Page
-![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/visualization-page.png)
+<img src="app/public/images/visualization-page.png">
 
 ### Admin Landing Page
-![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/admin-landing-page.png)
+<img src="app/public/images/admin-landing-page.png">
 
 ### All Profiles Page
-![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/profile-page.png)
+<img src="app/public/images/profile-page.png">
 
 ### Account Settings Page
-![](https://github.com/visualizing-your-future/visualizing-your-future.github.io/blob/main/app/public/images/account-settings-page.png)
+<img src="app/public/images/account-settings-page.png">
 
 [UPDATED SCREENSHOTS COMING SOON]
 
