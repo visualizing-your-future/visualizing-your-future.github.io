@@ -2,7 +2,9 @@
 layout: default
 title: Visualizing Your Future
 ---
-[![ci-meteor-application-template-production](https://github.com/visualizing-your-future/visualizing-your-future/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/visualizing-your-future/visualizing-your-future/actions/workflows/ci.yml)
+
+[![visualizing-your-future](https://github.com/visualizing-your-future/visualizing-your-future/actions/workflows/ci.yml/badge.svg)](https://github.com/visualizing-your-future/visualizing-your-future/actions/workflows/ci.yml)
+
 
 ## Table of Contents
 * [Overview](#overview)
