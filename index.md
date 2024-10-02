@@ -30,11 +30,14 @@ A tour through our current mock-up of our Visualizing Your Future web applicatio
 ### Sign In Page
 <img src="app/public/images/landing-page.png">
 
+### MFA
+<img src="app/public/images/mfa-example.png">
+
 ### Register Page
 <img src="app/public/images/register_page.png">
 
 ### Futures Page
-<img src="app/public/images/futures-page.png">
+<img src="app/public/images/future-page.png">
 
 ### Data Input Page
 <img src="app/public/images/data-input-page.png">
