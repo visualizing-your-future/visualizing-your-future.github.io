@@ -84,8 +84,12 @@ $ meteor npm run start
   - [Visualizing Your Future Home Page](https://visualizing-your-future.github.io/)
 - Began Issue Driven Project Management with Milestone 1 (8/29-9-11)
   - [M1 Project Board](https://github.com/orgs/visualizing-your-future/projects/3/views/1)
-- Entered Milestone 2 phase (9/12)
+- Entered Milestone 2 phase (9/12-10/2)
   - [M2 Project Board](https://github.com/orgs/visualizing-your-future/projects/5/views/1)
+- Entered Milestone 3 phase (10/2-10/16)
+  - [M3 Project Board](https://github.com/orgs/visualizing-your-future/projects/12)
+- Entered Milestone 4 phase (10/16-10/23)
+  - [M4 Project Board](https://github.com/orgs/visualizing-your-future/projects/17)
 
 ## The Visualizing Your Future Team
 
