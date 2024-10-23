@@ -34,10 +34,7 @@ A tour through our current mock-up of our Visualizing Your Future web applicatio
 <img src="app/public/images/mfa-example.png">
 
 ### Register Page
-<img src="app/public/images/signup-client-page.png"> <img src="app/public/images/signup-accountant-page.png">
-
-### Futures Page
-<img src="app/public/images/future-page.png">
+<img src="app/public/images/signup-client-page.png">
 
 ### Data Input Page
 <img src="app/public/images/data-input-page.png">
@@ -46,7 +43,6 @@ A tour through our current mock-up of our Visualizing Your Future web applicatio
 <img src="app/public/images/client-page.png">
 
 ### Visualization Page
-<img src="app/public/images/visualization-page.png">
 <img src="app/public/images/graph-view.png">
 <img src="app/public/images/compare-charts.png">
 
