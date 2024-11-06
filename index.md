@@ -45,6 +45,7 @@ A tour through our current mock-up of our Visualizing Your Future web applicatio
 ### Visualization Page
 <img src="app/public/images/graph-view.png">
 <img src="app/public/images/compare-charts.png">
+<img src="app/public/images/projections.png">
 
 ### Admin Landing Page
 <img src="app/public/images/admin-landing-page.png">
