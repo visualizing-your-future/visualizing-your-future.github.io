@@ -88,7 +88,7 @@ $ meteor npm run start
 - Entered Milestone 4 phase (10/17-10/23)
   - [M4 Project Board](https://github.com/orgs/visualizing-your-future/projects/17)
 - Entered Milestone 5 phase (10/24-current)
-  - [M5 Project Board](https://github.com/orgs/visualizing-your-future/projects/18)
+  - [M5 Project Board](https://github.com/orgs/visualizing-your-future/projects/24)
 
 ## The Visualizing Your Future Team
 
@@ -132,4 +132,4 @@ $ meteor npm run start
 * [M2 Project Board](https://github.com/orgs/visualizing-your-future/projects/10)
 * [M3 Project Board](https://github.com/orgs/visualizing-your-future/projects/12)
 * [M4 Project Board](https://github.com/orgs/visualizing-your-future/projects/17)
-* [M5 Project Board](https://github.com/orgs/visualizing-your-future/projects/18)
+* [M5 Project Board](https://github.com/orgs/visualizing-your-future/projects/24)
