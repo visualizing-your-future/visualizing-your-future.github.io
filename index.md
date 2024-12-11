@@ -22,41 +22,43 @@ title: Visualizing Your Future
 A tour through our current mock-up of our Visualizing Your Future web application for *Spire Hawaii LLP*.
 
 ### Landing Page
-![](images/landing-page.png)
-![](images/footer)
-<img src="app/public/images/landing-page.png">
-
+<img src="app/public/images/localhost_3000_landing.png">
 
 ### Sign In Page
-<img src="app/public/images/signin-page.png">
+<img src="app/public/images/localhost_3000_signin.png">
 
 ### MFA
-<img src="app/public/images/mfa-example.png">
+<img src="app/public/images/localhost_3000_mfa.png">
 
 ### Register Page
-<img src="app/public/images/signup-client-page.png">
+<img src="app/public/images/localhost_3000_signup.png">
 
 ### Data Input Page
-<img src="app/public/images/data-input-page.png">
+<img src="app/public/images/localhost_3000_datainput.png">
 
-### Client Page
-<img src="app/public/images/client-page.png">
+### Budget P&L Input Page
+<img src="app/public/images/localhost_3000_budgetplinput.png">
 
 ### Visualization Page
-<img src="app/public/images/graph-view.png">
-<img src="app/public/images/compare-charts.png">
-<img src="app/public/images/projections.png">
+<img src="app/public/images/localhost_3000_visualization1.png">
+<img src="app/public/images/localhost_3000_visualization2.png">
+
+### Example of Workpapers
+<img src="app/public/images/localhost_3000_wp2503.png">
+
+### Client Page
+<img src="app/public/images/localhost_3000_viewclients.png">
 
 ### Admin Landing Page
-<img src="app/public/images/admin-landing-page.png">
+<img src="app/public/images/localhost_3000_adminlanding.png">
 
 ### All Profiles Page
-<img src="app/public/images/profile-page.png">
+<img src="app/public/images/localhost_3000_manageprofiles.png">
 
 ### Account Settings Page
-<img src="app/public/images/account-settings-page.png">
+<img src="app/public/images/localhost_3000_editprofile.png">
 
-[UPDATED SCREENSHOTS COMING SOON]
+
 
 ## Developer Guide
 - First, [install Meteor](https://www.meteor.com/install), and [GitHub Desktop](https://desktop.github.com/).
@@ -87,7 +89,7 @@ $ meteor npm run start
   - [M3 Project Board](https://github.com/orgs/visualizing-your-future/projects/12)
 - Entered Milestone 4 phase (10/17-10/23)
   - [M4 Project Board](https://github.com/orgs/visualizing-your-future/projects/17)
-- Entered Milestone 5 phase (10/24-current)
+- Entered Milestone 5 phase (10/24-12/11)
   - [M5 Project Board](https://github.com/orgs/visualizing-your-future/projects/24)
 
 ## The Visualizing Your Future Team
@@ -100,26 +102,14 @@ $ meteor npm run start
 <div class="row" style="display: flex;">
     <div class="col" style="flex: 1;">
         <ul>
-            <li>Galen Chang</li>
-            <li>Janel Michaela Joson</li>
-            <li>Briana Lee</li>
-            <li>Hoang Nguyen</li>
-            <li>David Rickards</li>
-            <li>John Serraon</li>
-            <li>Victoria Valverde</li>
-            <li>Spencer Wells</li>
-        </ul>
-    </div>
-    <div class="col" style="flex: 1;">
-        <ul style="list-style-type: none;">
-            <li>(gchang7@hawaii.edu)</li>
-            <li>(jmjoson@hawaii.edu)</li>
-            <li>(brianall@hawaii.edu)</li>
-            <li>(thanghn@hawaii.edu)</li>
-            <li>(davidar@hawaii.edu)</li>
-            <li>(jserraon@hawaii.edu)</li>
-            <li>(vavalver@hawaii.edu)</li>
-            <li>(spence2@hawaii.edu)</li>
+              <li><a href="mailto:gchang7@hawaii.edu">Galen Chang</a></li>
+              <li><a href="mailto:jmjoson@hawaii.edu">Janel Michaela Joson</a></li>
+              <li><a href="mailto:brianall@hawaii.edu">Briana Lee</a></li>
+              <li><a href="mailto:thanghn@hawaii.edu">Hoang Nguyen</a></li>
+              <li><a href="mailto:davidar@hawaii.edu">David Rickards</a></li>
+              <li><a href="mailto:jserraon@hawaii.edu">John Serraon</a></li>
+              <li><a href="mailto:vavalver@hawaii.edu">Victoria Valverde</a></li>
+              <li><a href="mailto:spence2@hawaii.edu">Spencer Wells</a></li>
         </ul>
     </div>
 </div>
